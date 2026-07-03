@@ -1,0 +1,7 @@
+# robots.txt for Smart Complaint Portal
+# This file is included for production-readiness.
+
+User-agent: *
+Disallow:
+
+# No sitemap provided as it is a client-side hackathon prototype.
