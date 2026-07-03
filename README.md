@@ -88,3 +88,8 @@ This project requires **no installation, no node_modules, and no backend servers
 3. Toggle the light/dark switch to view vector recalculations.
 4. Dictate a report, click submit, and watch the AI route departments instantly!
 
+---
+
+## 👨‍💻 Developer
+
+Developed by Vinay Mutekar
